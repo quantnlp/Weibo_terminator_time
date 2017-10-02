@@ -1,6 +1,13 @@
-# Weibo Terminator Work Flow
+This Weibo_terminator_time is based on weibo_terminater (details shown below), which is the best tool to get weibo data I ever encountered.
 
-![PicName](http://ofwzcunzi.bkt.clouddn.com/7gOwGp5K4FPWHkHQ.png)
+I modified the following:
+(1) extract time corresponding to each Weibo tweet. The timing is something interesting.
+(2) only focus on finance, particularly Chinese A-share market.
+(3) optimize the wordings and print functions in all py files.
+(4) print the current working progress wrt overall pages.
+
+#########################################################################################################################
+Details about weibo_terminater:
 
 > 这个项目是之前项目的重启版本，之前的项目地址[这里](https://github.com/jinfagang/weibo_terminater.git)，那个项目依旧会保持更新，这是weibo terminator的工作版本，这个版本对上一个版本做了一些优化，这里的最终目标是一起爬取语料，包括情感分析、对话语料、舆论风控、大数据分析等应用。
 
