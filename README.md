@@ -1,9 +1,13 @@
 This Weibo_terminator_time is based on weibo_terminater (details shown below), which is the best tool to get weibo data I ever encountered.
 
 I modified the following:
+
 (1) extract time corresponding to each Weibo tweet. The timing is something interesting.
+
 (2) only focus on finance, particularly Chinese A-share market.
+
 (3) optimize the wordings and print functions in all py files.
+
 (4) print the current working progress wrt overall pages.
 
 #########################################################################################################################
